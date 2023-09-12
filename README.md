@@ -48,6 +48,8 @@ See the [Index of badges and challenges](badges/index.md) for all ideas.
 For now, please join the [GitHub Discussions][dis] to let me know what you
 think.
 
+[dis]: https://github.com/bencomp/unhackd/discussions
+
 ## Author and license
 
 This is a side project of Ben Companjen. The license is to be determined.
